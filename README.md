@@ -1,28 +1,76 @@
-<h1 align="center">Hi 👋, I'm Mahmoud Saleh</h1>
-<h3 align="center">Software Engineer and skilled Mobile Developer</h3>
-
-- 👨‍💻 All of my projects are available at [https://elite-it-team.com/Member/4](https://elite-it-team.com/Member/4)
-
-- 💬 Ask me about **Software Engineering, Mobile Development, Android, Swift, Flutter**
-
-- 📫 How to reach me **mahmoudbusinessuae@gmail.com**
-
-- 📄 Know about my experiences [https://elite-it-team.com/uploads/cvs/Mahmoud.pdf](https://elite-it-team.com/uploads/cvs/Mahmoud.pdf)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mahmoudsalehm979" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahmoudsalehm979/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/10707189/mahmoud-saleh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/10707189/mahmoud-saleh" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/3mahmoudsaleh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/3mahmoudsaleh" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/mahmoud_saleh_997/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mahmoud_saleh_997/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucncpwxvjo1wogu_g1wgc6kw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucncpwxvjo1wogu_g1wgc6kw" height="30" width="40" /></a>
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,50:00B4AB,100:0175C2&height=180&section=header&text=Mahmoud%20Saleh&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20Mobile%20Developer&descAlignY=58&descSize=18" alt="Mahmoud Saleh" width="100%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/mahmoudsaleh1997">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00B4AB&center=true&vCenter=true&width=560&lines=7%2B+years+building+mobile+apps;Flutter+%C2%B7+Dart+%C2%B7+Swift+%C2%B7+Kotlin;Full-stack%3A+TypeScript+%C2%B7+PHP+%C2%B7+Firebase;Based+in+Dubai+%F0%9F%87%A6%F0%9F%87%AA" alt="Typing intro" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoudsaleh1997&show_icons=true&locale=en&layout=compact" alt="mahmoudsaleh1997" /></p>
+<p align="center">
+  <a href="https://linkedin.com/in/mahmoudsalehm979"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://stackoverflow.com/users/10707189/mahmoud-saleh"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+  <a href="mailto:mahmoudbusinessuae@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=mahmoudsaleh1997&style=for-the-badge&color=00B4AB&label=Profile+views" alt="Profile views" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmoudsaleh1997&show_icons=true&locale=en" alt="mahmoudsaleh1997" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudsaleh1997&" alt="mahmoudsaleh1997" /></p>
+## 👨‍💻 About me
+
+I'm a software engineer in Dubai with **7+ years** of building mobile apps, from first sketch to App Store and Google Play. Most of my work is **Flutter**, backed by native **Swift** and **Kotlin** when a feature needs it, and I build the admin panels and APIs behind my apps too.
+
+- 📱 Ship cross-platform apps with Flutter, Riverpod, GetX and clean architecture
+- 🧩 Build the backend and dashboards: TypeScript, PHP/Laravel, Firebase, SQL
+- 🎨 Work from Figma and Adobe XD designs straight to production UI
+- 💬 Ask me about **Flutter, mobile architecture, Android, iOS**
+
+## 🛠️ Tech stack
+
+**Mobile**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,swift,kotlin,java,androidstudio&perline=10" alt="Mobile" />
+</p>
+
+**Backend & data**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,php,laravel,firebase,mysql,postgres,sqlite&perline=10" alt="Backend" />
+</p>
+
+**Tools & design**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,xd,vscode&perline=10" alt="Tools" />
+</p>
+
+## 📊 GitHub stats
+
+> Most of my work lives in private client repositories. These cards are generated daily by a GitHub Action and include private work (aggregate numbers only).
+
+<p align="center">
+  <img src="./assets/stats.svg" alt="GitHub activity" height="190" />
+  <img src="./assets/languages.svg" alt="Most used languages" height="190" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=mahmoudsaleh1997&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00B4AB&fire=00B4AB&currStreakLabel=00B4AB" alt="Contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmoudsaleh1997&bg_color=0d1117&color=e6edf3&line=00b4ab&point=58a6ff&area=true&area_color=00b4ab&hide_border=true&radius=10" alt="Contribution graph" width="100%" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahmoudsaleh1997/mahmoudsaleh1997/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/mahmoudsaleh1997/mahmoudsaleh1997/output/github-snake.svg" alt="Contribution snake" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0175C2,50:00B4AB,100:02569B&height=100&section=footer" width="100%" alt="" />
+</p>

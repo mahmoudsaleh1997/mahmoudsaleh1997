@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="455" height="205" viewBox="0 0 455 205" role="img" aria-label="GitHub Activity · public + private">
+<style>
+  .t { font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Sans-Serif; font-size: 18px; font-weight: 600; fill: #58a6ff; }
+  .l { font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Sans-Serif; font-size: 14px; fill: #8b949e; }
+  .v { font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Sans-Serif; font-size: 14px; font-weight: 700; fill: #e6edf3; }
+  .big { font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Sans-Serif; font-size: 30px; font-weight: 700; fill: #e6edf3; }
+  .fade { opacity: 0; animation: in .6s ease-out forwards; }
+  @keyframes in { to { opacity: 1; } }
+  @keyframes grow { from { width: 0; } }
+</style>
+<rect x="0.5" y="0.5" width="454" height="204" rx="10" fill="#0d1117" stroke="#30363d"/>
+<text x="25" y="38" class="t">GitHub Activity · public + private</text>
+<g class="fade" style="animation-delay:0ms"><circle cx="31" cy="73" r="4" fill="#00b4ab"/><text x="45" y="78" class="l">Total contributions</text><text x="430" y="78" class="v" text-anchor="end">2,703</text></g>
+<g class="fade" style="animation-delay:150ms"><circle cx="31" cy="103" r="4" fill="#00b4ab"/><text x="45" y="108" class="l">Contributions (last 12 months)</text><text x="430" y="108" class="v" text-anchor="end">1,974</text></g>
+<g class="fade" style="animation-delay:300ms"><circle cx="31" cy="133" r="4" fill="#00b4ab"/><text x="45" y="138" class="l">Repositories</text><text x="430" y="138" class="v" text-anchor="end">35  (31 private)</text></g>
+<g class="fade" style="animation-delay:450ms"><circle cx="31" cy="163" r="4" fill="#00b4ab"/><text x="45" y="168" class="l">Years on GitHub</text><text x="430" y="168" class="v" text-anchor="end">3.8</text></g>
+</svg>
