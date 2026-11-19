@@ -10,8 +10,8 @@
 </style>
 <rect x="0.5" y="0.5" width="454" height="204" rx="10" fill="#0d1117" stroke="#30363d"/>
 <text x="25" y="38" class="t">GitHub Activity · public + private</text>
-<g class="fade" style="animation-delay:0ms"><circle cx="31" cy="73" r="4" fill="#00b4ab"/><text x="45" y="78" class="l">Total contributions</text><text x="430" y="78" class="v" text-anchor="end">2,703</text></g>
-<g class="fade" style="animation-delay:150ms"><circle cx="31" cy="103" r="4" fill="#00b4ab"/><text x="45" y="108" class="l">Contributions (last 12 months)</text><text x="430" y="108" class="v" text-anchor="end">1,974</text></g>
+<g class="fade" style="animation-delay:0ms"><circle cx="31" cy="73" r="4" fill="#00b4ab"/><text x="45" y="78" class="l">Total contributions</text><text x="430" y="78" class="v" text-anchor="end">2,704</text></g>
+<g class="fade" style="animation-delay:150ms"><circle cx="31" cy="103" r="4" fill="#00b4ab"/><text x="45" y="108" class="l">Contributions (last 12 months)</text><text x="430" y="108" class="v" text-anchor="end">1,975</text></g>
 <g class="fade" style="animation-delay:300ms"><circle cx="31" cy="133" r="4" fill="#00b4ab"/><text x="45" y="138" class="l">Repositories</text><text x="430" y="138" class="v" text-anchor="end">35  (31 private)</text></g>
 <g class="fade" style="animation-delay:450ms"><circle cx="31" cy="163" r="4" fill="#00b4ab"/><text x="45" y="168" class="l">Years on GitHub</text><text x="430" y="168" class="v" text-anchor="end">3.8</text></g>
 </svg>
