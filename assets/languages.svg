@@ -11,15 +11,15 @@
 <rect x="0.5" y="0.5" width="454" height="204" rx="10" fill="#0d1117" stroke="#30363d"/>
 <text x="25" y="38" class="t">Most Used Languages</text>
 <clipPath id="r"><rect x="25" y="58" width="405" height="10" rx="5"/></clipPath><g clip-path="url(#r)">
-<rect x="25.0" y="58" width="305.1" height="10" fill="#00B4AB" style="animation:grow .8s ease-out"/>
-<rect x="329.6" y="58" width="61.7" height="10" fill="#3178c6" style="animation:grow .8s ease-out"/>
-<rect x="390.8" y="58" width="33.6" height="10" fill="#4F5D95" style="animation:grow .8s ease-out"/>
-<rect x="423.8" y="58" width="4.7" height="10" fill="#f1e05a" style="animation:grow .8s ease-out"/>
+<rect x="25.0" y="58" width="306.0" height="10" fill="#00B4AB" style="animation:grow .8s ease-out"/>
+<rect x="330.5" y="58" width="61.2" height="10" fill="#3178c6" style="animation:grow .8s ease-out"/>
+<rect x="391.1" y="58" width="33.3" height="10" fill="#4F5D95" style="animation:grow .8s ease-out"/>
+<rect x="423.9" y="58" width="4.7" height="10" fill="#f1e05a" style="animation:grow .8s ease-out"/>
 <rect x="428.1" y="58" width="2.4" height="10" fill="#3572A5" style="animation:grow .8s ease-out"/>
 </g>
-<g class="fade" style="animation-delay:0ms"><circle cx="31" cy="95" r="6" fill="#00B4AB"/><text x="45" y="100" class="v">Dart</text><text x="215" y="100" class="l" text-anchor="end">75.2%</text></g>
-<g class="fade" style="animation-delay:120ms"><circle cx="241" cy="95" r="6" fill="#3178c6"/><text x="255" y="100" class="v">TypeScript</text><text x="425" y="100" class="l" text-anchor="end">15.1%</text></g>
-<g class="fade" style="animation-delay:240ms"><circle cx="31" cy="125" r="6" fill="#4F5D95"/><text x="45" y="130" class="v">PHP</text><text x="215" y="130" class="l" text-anchor="end">8.2%</text></g>
+<g class="fade" style="animation-delay:0ms"><circle cx="31" cy="95" r="6" fill="#00B4AB"/><text x="45" y="100" class="v">Dart</text><text x="215" y="100" class="l" text-anchor="end">75.4%</text></g>
+<g class="fade" style="animation-delay:120ms"><circle cx="241" cy="95" r="6" fill="#3178c6"/><text x="255" y="100" class="v">TypeScript</text><text x="425" y="100" class="l" text-anchor="end">15.0%</text></g>
+<g class="fade" style="animation-delay:240ms"><circle cx="31" cy="125" r="6" fill="#4F5D95"/><text x="45" y="130" class="v">PHP</text><text x="215" y="130" class="l" text-anchor="end">8.1%</text></g>
 <g class="fade" style="animation-delay:360ms"><circle cx="241" cy="125" r="6" fill="#f1e05a"/><text x="255" y="130" class="v">JavaScript</text><text x="425" y="130" class="l" text-anchor="end">1.0%</text></g>
 <g class="fade" style="animation-delay:480ms"><circle cx="31" cy="155" r="6" fill="#3572A5"/><text x="45" y="160" class="v">Python</text><text x="215" y="160" class="l" text-anchor="end">0.5%</text></g>
 </svg>
